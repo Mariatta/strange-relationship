@@ -1,12 +1,13 @@
-
 ---
 name: Bug report
 about: Create a report to help us improve
 
 ---
 
--- blabla
+<!--
+This is the repository and issue tracker ffoao
 
+-->
 
 **Describe the bug**
 A clear and concise description of what the bug is.
