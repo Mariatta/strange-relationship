@@ -1,3 +1,6 @@
 no way
 hmm
 wat
+
+
+exit 
